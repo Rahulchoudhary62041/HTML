@@ -1,0 +1,92 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>
+Homepage
+</title>
+</head>
+<body background="background.jpg">
+<center>
+<font size="7" face="spantaran"color="dodgerblue">MR </font>
+<font size="7" face="spantaran"color="deeppink">MEDIA</font>
+<br>  
+<font  face="ubuntu" size="4 "><i><b> get a multimedia as your wish</b></i></font>
+<hr width="10%" color="dodgerblue" size="4">
+<br>
+<img src="home.png  ">
+<a href="image.html"><img src="images.png"></a>
+<a href="movie.html"><img src="movies.png"></a>
+<a href="song.html"><img src="songs.png"></a>
+<img src="about.png"> 
+  </center>
+  <marquee>
+ <font size="5" face="ubuntu" ><b> Welcome to our multi media website</b></font>
+</marquee>
+<fieldset>
+ <legend>  <font size="4" face="ubuntu"><b> Latest Images</b></font></legend>
+ <center>
+ <a href="g.jpg" download="download"><img src="a.jpg" border="5"></a>
+<a href="h.jpg"><img src="b.jpg" border="5"></a>
+<a href="i.jpg"><img src="c.jpg" border="5"></a>
+<a href="j.jpg"><img src="d.jpg"border="5"></a>
+<a href="k.jpg"><img src="e.jpg" border="5"></a>
+<a href="l.jpg"><img src="f.jpg" border="5"></a>
+</center>
+
+</fieldset>
+<br><br>
+
+
+<fieldset>
+<legend> <font siz"4" face="ubuntu"><b> Latest Movies</b></font></legend>
+<marquee>  
+<center>
+<a href="v.mp4" download="download"><img src="m.jpg" border="5">
+<a href="w.mp4" download="download"><img src="n.jpg" border="5">
+<a href="x.mp4"><img src="o.jpg" border="5">
+<a href="y.mp4"><img src="p.jpg" border="5">
+<a href="z.mp4"><img src="q.jpg" border="5">
+<a href="v.mp4"><img src="r.jpg" border="5">
+<a href="w.mp4"><img src="s.jpg" border="5">
+<a href="x.mp4"><img src="t.jpg" border="5">
+<a href="y"><img src="u.jpg" border="5">
+
+
+<a href="z.mp4"><img src="o.jpg" border="5">
+</marquee>
+<marquee direction="right">
+<a href="x.mp4"><img src="n.jpg" border="5">
+<a href="y.mp4"><img src="q.jpg" border="5">
+<a href="z.mp4"><img src="p.jpg" border="5">
+<a href="x.mp4"><img src="r.jpg" border="5">
+<a href="y.mp4"><img src="s.jpg" border="5">
+<a href="z.mp4"><img src="u.jpg" border="5">
+<a href="x.mp4"><img src="t.jpg" border="5">
+<a href="y.mp4"><img src="m.jpg" border="5">
+<a href="z.mp4"><img src="n.jpg" border="5">
+<a href="x.mp4"><img src="o.jpg" border="5">
+</marquee>
+
+</center>
+
+</fieldset>
+
+<br><br>
+<fieldset>
+
+<legend> <font size"4" face="ubuntu"><b> Latest Songs</b></font></legend>
+
+<font size="3" face="ubuntu"><b>1. Sisa se (by kalu)</b></font> 
+<a href="song.mp3" download="download"><button><font size="3" face="ubuntu"><b>Download now </b></font></button></a>
+<a href="song.mp3"><button><font size="3" face="ubuntu"><b>Play Online </b></font></button></a>
+<br><br>
+<font size="3" face="ubuntu"><b>2. Rasgula  (by nilkamal) </b></font> 
+<a href="song2.mp3" download="download"><button><font size="3" face="ubuntu"><b>Download now </b></font></button></a>
+<a href="song.mp3"><button><font size="3" face="ubuntu"><b>Play Online </b></font></button></a>
+<br><br>
+<font size="3" face="ubuntu"><b>3. Raja Ji ( by pawan singh) </b></font> 
+<a href="song3.mp3" download="download"><button><font size="3" face="ubuntu"><b>Download now </b></font></button></a>
+<a href="song.mp3"><button><font size="3" face="ubuntu"><b>Play Online </b></font></button></a>
+</fieldset>
+</body>
+</html>  
